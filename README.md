@@ -94,6 +94,6 @@ Propuesta de estructura:
 │   ├── exportacion_limpieza.ipynb
 │   └── analisis_exploratorio.ipynb
 ├── data/
-│   ├── datos_originales_v6.csv
-│   └── datos_backup_v6.csv
+│   ├── datos_originales.csv
+│   └── datos_backup.csv
 ├── .gitignore
