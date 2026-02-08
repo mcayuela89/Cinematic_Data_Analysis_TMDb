@@ -11,7 +11,7 @@ El objetivo ha sido construir un pequeño pipeline **ETL + análisis exploratori
 ## 2. Miembros del equipo
 
 - **Christian Monzon**
-- **Miguel Cayuela**
+- **Miguel Angel Cayuela**
 - **Daniel Nedelcu**
 
 ---
