@@ -53,7 +53,7 @@ En la carpeta `data/` se encuentran los ficheros principales:
 - `datos_originales_v6.csv`: dataset principal con todas las películas ya limpias y preparadas.
 - `datos_backup_v6.csv`: copia de seguridad del dataset limpio.
 
-Cada fila del dataset corresponde a una película e incluye, entre otras, las siguientes columnas:
+Cada fila del dataset corresponde a una película e incluye entre otras las siguientes columnas:
 
 - `ID`, `Titulo`, `Titulo_original`
 - `Idioma_original`, `Pais_origen`
